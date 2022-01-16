@@ -3,12 +3,12 @@ import {
 	Routes,
 	Route
   } from "react-router-dom";
-
-  import Listing from './pages/Listing';
-  import Form from './pages/Form';
-  import Navbar from "./components/Navbar";
   
-  function App() {
+import Navbar from "./components/Navbar";
+import Form from "./pages/Form";
+import Listing from "./pages/Listing/";
+
+function App() {
 	return (
 	  <BrowserRouter>
 		<Navbar />
