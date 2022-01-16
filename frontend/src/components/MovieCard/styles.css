@@ -1,0 +1,9 @@
+.dsmovie-movie-card {
+    border-radius: 6.5px;
+    box-shadow: rgba(61, 61, 61, 0.2) 0 2px 5px 2px;
+}
+
+.dsmovie-movie-card:hover {
+    border-radius: 6.5px;
+    box-shadow: rgba(61, 61, 61, 0.4) 0 4px 10px 4px;
+}
